@@ -1,0 +1,44 @@
+Privacy Policy
+
+Introduction
+
+Badar Apps ("We," "us," or "our") values the privacy of our users ("you"). This Privacy Policy outlines how we handle the personal information we collect from you when you use our mobile application (the "App"). Please review this Privacy Policy carefully to understand how we protect your privacy. By using the App, you agree to the terms of this Privacy Policy. We may update this policy from time to time. Any changes will be communicated by posting the updated policy on the App or our website, and through other appropriate communication channels. Your continued use of the App after any changes indicates your acceptance of the new terms.
+
+Information Collection
+We gather information as follows:
+
+Non-personal information we collect may include your device's make and model, operating system version, language preferences, Internet service provider (ISP), device identifiers (e.g., Google Advertising ID, Android ID), geographic location, session duration, in-app activity, and interaction data.
+
+Personal information we collect may include your full name, date of birth, gender, contact number, email address, username, and additional demographic details that assist in identifying you, as well as information from Google if you sign in using your Google account.
+
+Use of Information
+The reasons we collect data are:
+
+To deliver and improve our Services, verify user identity, establish communication, and provide personalized advertising experiences.
+
+To enhance the in-app user experience, and to customize our promotions and offers to better suit your interests.
+
+For safeguarding the integrity of our system (preventing fraud, cheating, and other unauthorized or illicit actions).
+
+To comply with our legal and regulatory obligations.
+
+Sharing of Information
+We do not sell, exchange, or lease your data. We work with third-party providers and partners such as subcontractors, associates, distributors, fulfillment entities, and marketing agencies to facilitate our Services, and we may disclose information to support these activities, subject to stringent confidentiality and security provisions, in compliance with Google's privacy standards.
+
+Information Security
+We use industry-standard security measures, including physical, administrative, and technical safeguards, as well as encryption where necessary, to protect your information from unauthorized access, disclosure, alteration, and destruction.
+
+Retention of Information
+We retain your information only for the period necessary to fulfill the purposes for which it was collected, to comply with legal obligations, or until you request its deletion. As such, we will store your information for the duration of your interaction with the mobile application provided as part of our Services. After that period, information will be permanently deleted or de-identified for use in analytics.
+
+Rights of EU Residents
+Residents of the European Economic Area (EEA) have additional rights, including the right to obtain copies of personal data and to file complaints with local data protection authorities. Data may be transferred outside the EEA to jurisdictions with varying levels of protection, and by using the App, you explicitly agree to such transfers. Consent may be revoked at any time.
+
+Protection of Children's Information
+We do not intentionally collect information from children under the age of 13 (or under 16 in the EEA). If a parent or guardian believes their child has provided us with personal information without their consent, they should contact us immediately, and we will take steps to remove such information.
+
+Your Rights Regarding Your Information
+You can update or correct your personal information through your App account settings or by reaching out to us. You have the right to limit the use and collection of your data, request the deletion, access, or copies of your data, object to the processing of your data, or revoke consent. To exercise these rights, please contact us for identity verification, and we will act in accordance with the law.
+
+Contact Us
+If you have any questions about your personal data or this Privacy Policy, please contact us at badarapps007@gmail.com.
